@@ -1,8 +1,8 @@
 <h3 align="center">A senior software developer from Germany</h3>
 
-- 🔭 I’m currently working on **NFT marketplace**
+- 🔭 I’m currently working on **.NET Accounting Project**
 
-- 🌱 I’m currently learning **Rust ...**
+- 🌱 I’m currently learning **AI ...**
 
 - 👯 I’m looking to collaborate on **Opensource project**
 
